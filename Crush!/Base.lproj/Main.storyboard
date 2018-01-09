@@ -46,5 +46,19 @@
             </objects>
             <point key="canvasLocation" x="-566" y="134"/>
         </scene>
+        <!--Passcode-->
+        <scene sceneID="cHS-og-5MJ">
+            <objects>
+                <viewController title="Passcode" id="hvp-UZ-FJH" customClass="PasscodeLockViewController" customModule="PasscodeLock" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="DQF-Ri-hEp">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <viewLayoutGuide key="safeArea" id="SHc-6j-9N8"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="sFT-xZ-Dgl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
     </scenes>
 </document>
